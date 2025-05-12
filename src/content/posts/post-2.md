@@ -901,6 +901,11 @@ In the meantime, start your Relay node by running `./polkadot`. If everything is
 
 ![6-dashboard-metric-52044f98ca5a45715a8731a4cc96ed1b](https://hackmd.io/_uploads/BkO59LRPkg.png)
 
+
+#### What's Next?
+
+You can now create, build, and connect your own Substrate-based parachain to the relay chain. See [Substrate-based Parachain Deployment Setup](/post-3) for more details.
+
 #### References
 - Initial setup: https://wiki.polkadot.network/docs/maintain-guides-how-to-validate-polkadot#initial-set-up
 - Using systemd for a validator node: https://wiki.polkadot.network/docs/maintain-guides-how-to-systemd
