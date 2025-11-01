@@ -67,6 +67,9 @@ jobs:
       - name: Install Node.js dependencies
         run: |
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+      - name: Install PostCSS and plugins
+        run: |
+          npm install --save-dev postcss postcss-cli autoprefixer
       - name: Configure Git
         run: |
           git config core.quotepath false
