@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Smart Contract on Trustless future is tomorrow - Husni's personal site</title><link>https://ical10.github.io/tags/smart-contract/</link><description>Recent content in Smart Contract on Trustless future is tomorrow - Husni's personal site</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 01 Nov 2025 22:20:25 +0800</lastBuildDate><atom:link href="https://ical10.github.io/tags/smart-contract/index.xml" rel="self" type="application/rss+xml"/><item><title>Native EVM Contracts on Polkadot</title><link>https://ical10.github.io/posts/post-1/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://ical10.github.io/posts/post-1/</guid><description>&lt;p&gt;This is a presentation about PolkaVM that I made to present to one of local web3 communities. Since it&amp;rsquo;s currently in development, things might have changed and what you&amp;rsquo;re going to read might not be valid anymore. Feel free to consult the official docs.&lt;/p&gt;
+&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Execute EVM contracts natively on Substrate-based chains&lt;/li&gt;
+&lt;li&gt;Uses &lt;code&gt;pallet-revive&lt;/code&gt; in Substrate runtime&lt;/li&gt;
+&lt;li&gt;Supports Ethereum-like transactions and state transitions&lt;/li&gt;
+&lt;li&gt;Benefits: Lower gas fees, faster transactions, interoperability with Substrate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="what-is-polkavm"&gt;What is PolkaVM?&lt;/h2&gt;
+&lt;p&gt;PolkaVM is a cutting-edge virtual machine tailored to &lt;strong&gt;optimize smart contract execution&lt;/strong&gt; on Polkadot.&lt;/p&gt;</description></item></channel></rss>
