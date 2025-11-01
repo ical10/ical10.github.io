@@ -8,7 +8,6 @@ rssLimit = 10
 theme = "hugo-texify3"
 title = "Trustless future is tomorrow - Husni's personal site"
 
-
 [pagination]
 pagerSize = 5
 
