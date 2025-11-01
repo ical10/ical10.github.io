@@ -1,23 +1,12 @@
-A minimal, $\LaTeX$-style hugo theme for personal blogging.
-Visit the [wiki](https://github.com/michaelneuper/hugo-texify3/wiki) for information on how to install and configure.
+Welcome to my personal site, a place where I express my ideas and thoughts.
+
+Most of the stuff you'll find here is about software engineering and web3, but more often than not there are also some of my personal interests: living on an island, understanding stoicism, learning math and physics, etc.
+
+I hope you'll learn something useful here!
 
 ---
 
-## Features
 
-- Any comment engine (giscus, remark42, hyvor, etc.)
-- [Mermaid](https://mermaid.js.org) support
-- DuckDuckGo search
-- Buymeacoffee widget
-- Auto numbered subtitles
-- [Disqus](https://disqus.com/) & Google Analytics
-- Render math equations with [KaTeX](https://katex.org/)
-- [PostCSS](https://postcss.org/) to make writing CSS easier
-- Dark mode toggle
-- Citations
+"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."
 
----
-
-## Acknowledgement
-
-This is a fork of the [TeXify2](https://github.com/weastur/hugo-texify2) theme.
+-- Richard Feynman in his letter _Perfectly Reasonable Deviations from the Beaten Track_
