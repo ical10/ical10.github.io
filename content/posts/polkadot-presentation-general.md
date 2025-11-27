@@ -7,6 +7,6 @@ tags: ["Polkadot"]
 draft: false
 ---
 
-Here is my presentation on Polkadot:
+Here is my presentation on Polkadot, heavily inspired by [Shawn Tabrizi's presentation](https://www.shawntabrizi.com/assets/presentations/the-future-of-web3.pdf):
 
 <iframe src="https://drive.google.com/file/d/1i8SffPEU8xtr1k68wnzIYo2jAHvqHbKn/preview" width="100%" height="600px"></iframe>
